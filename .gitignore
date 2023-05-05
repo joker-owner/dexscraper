@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Production build files
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Other files
+.DS_Store
+Thumbs.db
+
+# Development
+.vscode
+public
+package-lock.json
