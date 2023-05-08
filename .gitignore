@@ -17,7 +17,6 @@ build/
 
 # Environment variables
 .env
-.env.*
 
 # Other files
 .DS_Store
